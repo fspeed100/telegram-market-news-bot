@@ -5,7 +5,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler
 from datetime import time
 
-TOKEN="8701576141:AAHezESKNkoF379rF0sZ-UvAS7qrDm8TbME"
+TOKEN="8757321811:AAGqXvMsHacdyaux9gQAaXjyfauNKhUeFHk"
 
 chat_id=None
 
